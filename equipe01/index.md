@@ -26,4 +26,10 @@ Neste vídeo, abrimos a caixa preta do aplicativo mais famoso do mundo para ente
 
 {{< youtube "H7Ij4bTcc8A" >}}
 
-{{< audio "nome-do-arquivo.mp3" >}}
+## Uso da Inteligência Arficial no Combate à Evasão Universitária
+
+Neste episódio de podcast, exploramos o uso de Inteligência Artificial para prever quem vai desistir da faculdade antes mesmo de o aluno pensar em chutar o balde. Você vai descobrir que, para o algoritmo, a vida acadêmica não é apenas um boletim de notas, mas sim uma combinação complexa de fatores que vão desde o método de ingresso até o tempo gasto no ônibus até o campus. Vamos te explicar de forma simples como funciona a Classificação com Opção de Rejeição e como o uso de duas redes neurais isola a "zona cinzenta": aqueles alunos que estão na corda bamba e só precisam de um empurrãozinho para continuar. Se você achava que a Inteligência Artificial servia apenas para transformar as pessoas em números, prepare-se para ver como a tecnologia está ajudando a humanizar o ensino e a salvar futuros dentro da universidade pública!
+
+O episódio foi baseado no artigo *A machine learning approach to identify and prioritize college students at risk of dropping out*, dos pesquisadores Artur Mesquita Barbosa, Emanuele Santos e João Paulo P. Gomes (Departamento de Computação - UFC) diponível neste [link](https://sol.sbc.org.br/index.php/sbie/article/view/42193).
+
+{{< audio "podcast.mp3" >}}
