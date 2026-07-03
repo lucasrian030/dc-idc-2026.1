@@ -15,6 +15,11 @@ draft: true                               # <- IMPORTANTE: troque para false (ou
 
 **Autores**: [Lucas Rian de Sousa Pereira](lucasrian@alu.ufc.br), [Jorge Leao Salgado Neto](jorgesalgado1190@gmail.com), [Joao Gabriel Borges Monteiro](joaogabrielborges@alu.ufc.br), & [Joao Gabriel Almeida De Oliveira](joaobielos@gmail.com).
 
+Principais Temas Abordados:
+
+* Otimização
+* Aprendizado de Máquina
+
 {{< youtube "ID_DO_VIDEO" >}}
 
 {{< audio "nome-do-arquivo.mp3" >}}
